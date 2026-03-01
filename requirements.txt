@@ -3,3 +3,4 @@ easyocr>=1.7.1
 opencv-python>=4.8.0.76
 numpy
 lapx>=0.5.2
+colorama

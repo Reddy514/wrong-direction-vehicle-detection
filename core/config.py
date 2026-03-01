@@ -1,7 +1,7 @@
 import os
 
 # Paths and Files
-VIDEO_SOURCE = 0  # 0 for webcam, or path to MP4 (e.g., "test_video.mp4")
+VIDEO_SOURCE = r"C:\reactprojects\ai detection\traffic.mp4"  # 0 for webcam, or path to MP4 (e.g., "test_video.mp4")
 DB_PATH = "violations.db"
 VIOLATIONS_DIR = "violations"
 PLATES_DIR = "plates"
